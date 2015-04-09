@@ -17,7 +17,7 @@ namespace jLib
         {
             BaseInstance = this;
             Main.chain3Texture = MBase.BaseInstance.textures["Gores/Chain3"];
-//            Main.chain3Texture = MBase.BaseInstance.textures["Gores/Flaildigit Chain"];
+            //Main.chain3Texture = MBase.BaseInstance.textures["Gores/Flaildigit Chain"];
             DateTime now = DateTime.Now;
             int day = now.Day;
             int month = now.Month;

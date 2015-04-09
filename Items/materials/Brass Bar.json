@@ -1,0 +1,12 @@
+{
+	"displayName": "Brass Bar",
+	"size": [30,24],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "An alloy of Copper and Tin made in the high oven.",
+}

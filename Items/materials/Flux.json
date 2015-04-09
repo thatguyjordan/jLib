@@ -1,0 +1,19 @@
+{
+	"displayName": "Flux",
+	"size": [24,24],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Null component used as a reducer in creating alloys.",
+	
+	"recipes":
+	[{
+		"items": { "Bomb": 1, "Gel": 1, "Hellstore": 1}, 
+		"tiles": [ "Exo Modification Table" ],
+		"creates": 1
+	}]
+}

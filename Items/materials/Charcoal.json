@@ -1,0 +1,19 @@
+{
+	"displayName": "Charcoal",
+	"size": [24,20],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "Carbon component used in creating steel.",
+	
+	"recipes":
+	[{
+		"items": { "Wood": 1}, 
+		"tiles": [ "Furnace" ],
+		"creates": 1
+	}]
+}
