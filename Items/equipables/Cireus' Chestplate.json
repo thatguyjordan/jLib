@@ -1,0 +1,14 @@
+{	
+	"code": "CireusChest",
+	"displayName": "Cireus' Chestplate",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 10,	
+	"tooltip": "'You should not have this'",
+	"defense": 80,
+	"armorBody": true,
+	"hasHands": false,
+	"setName": "cireus",
+	"textureFemale": "Items/equipables/Cireus' Chestplate_FemaleBody"
+}

@@ -1,0 +1,13 @@
+{
+	"displayName": "Flaildigit Ball",
+	"size": [30, 40],
+	"aiStyle": 15,
+	"timeLeft": 360000,
+	"friendly": true,
+	"hostile": false,	
+	"tileCollide": true,
+	"penetrate": 9999,
+	"scale": 1.0,
+	"damage": 86,
+	"melee": true
+}

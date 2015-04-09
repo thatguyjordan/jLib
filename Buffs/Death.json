@@ -1,0 +1,9 @@
+{
+	"displayName": "Dev Debuff",
+	"tip": "Suffer the consequences",
+	"debuff": true,
+	"vanityPet": false,
+	"lightPet": false,
+	"enchantment": false,
+	"noTimer": true	
+}

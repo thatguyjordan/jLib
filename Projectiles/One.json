@@ -1,0 +1,13 @@
+{
+	"displayName": "One",
+	"size": [7, 14],
+	"aiStyle": 4,
+	"timeLeft": 10,
+	"friendly": false,
+	"hostile": false,	
+	"tileCollide": false,
+	"penetrate": 9999,
+	"scale": 1.0,
+	"damage": 0,
+	"melee": true
+}

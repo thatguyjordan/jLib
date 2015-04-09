@@ -1,0 +1,12 @@
+{
+	"code": "NealGreaves",
+	"displayName": "Neal's Greaves",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 10,		
+	"tooltip": "You should not have this",
+	"defense": 40,	
+	"armorLegs": true,
+	"setName": "neal"
+}

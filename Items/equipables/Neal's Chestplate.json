@@ -1,0 +1,14 @@
+{	
+	"code": "NealChest",
+	"displayName": "Neal's Chestplate",
+	"size": [20,20],
+	"maxStack": 1,
+	"value": [0,0,10,0],
+	"rare": 10,	
+	"tooltip": "'You should not have this'",
+	"defense": 80,
+	"armorBody": true,
+	"hasHands": false,
+	"setName": "neal",
+	"textureFemale": "Items/equipables/Neal's Chestplate_FemaleBody"
+}
