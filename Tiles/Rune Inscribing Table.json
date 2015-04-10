@@ -1,0 +1,21 @@
+{
+	"displayName": "Rune Inscribing Table",
+	"size": [3,3],
+	"frameWidth": 16,
+	"frameHeight": 16,
+	"sheetColumns": 3,
+	"sheetRows": 3,
+	"frameImportant": true,
+	"blocksLight": false,
+	"blocksSun": false,
+	"mergeDirt": false,	
+	"placementConditions": "flatGround",
+	"placementOrigin": [1,1],
+	"drop": "Rune Inscribing Table",
+	"breaksByPick": true,
+	"dust": 1,
+	"sound": 4,
+	"soundGroup": 3,
+	"mapColor": [48, 130, 48],
+	"mapHoverText": "Rune Inscribing Table"
+}

@@ -1,0 +1,22 @@
+{
+	"displayName": "Rune Inscribing Table",
+	"size": [48,48],
+	"maxStack": 99,
+	"value": [0,0,0,0],	
+	"rare": 1,
+	"useStyle": 1,
+	"useAnimation": 15,
+	"useTime": 10,
+	"autoReuse": true,
+	"useTurn": true,
+	"createTile": "Rune Inscribing Table",
+	"tooltip": "Inscribes runes with the power of elements. Also can be used to infuse runic items.",
+	"consumable": true,
+	
+	"recipes":
+	[{
+		"items": { "Work Bench": 1, "jLib:Runic Plate": 3, "Living Fire Block": 5, "Cobweb": 5, "Waterleaf": 5, "Obsidian": 5 }, 
+		"tiles": [ "Work Bench" ], 
+		"creates": 1	
+	}]
+}

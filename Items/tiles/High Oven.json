@@ -1,0 +1,22 @@
+{
+	"displayName": "High Oven",
+	"size": [32,32],
+	"maxStack": 99,
+	"value": [0,0,0,0],	
+	"rare": 1,
+	"useStyle": 1,
+	"useAnimation": 15,
+	"useTime": 10,
+	"autoReuse": true,
+	"useTurn": true,
+	"createTile": "High Oven",
+	"tooltip": "Allows for the smelting of powerful alloys.",
+	"consumable": true,
+	
+	"recipes":
+	[{
+		"items": { "Hellforge": 1, "Iridescent Brick": 20 }, 
+		"tiles": [ "Work Bench" ], 
+		"creates": 1	
+	}]
+}

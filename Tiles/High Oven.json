@@ -1,0 +1,21 @@
+{
+	"displayName": "High Oven",
+	"size": [2,2],
+	"frameWidth": 16,
+	"frameHeight": 16,
+	"sheetColumns": 2,
+	"sheetRows": 2,
+	"frameImportant": true,
+	"blocksLight": false,
+	"blocksSun": false,
+	"mergeDirt": false,	
+	"placementConditions": "flatGround",
+	"placementOrigin": [1,1],
+	"drop": "High Oven",
+	"breaksByPick": true,
+	"dust": 1,
+	"sound": 4,
+	"soundGroup": 3,
+	"mapColor": [48, 130, 48],
+	"mapHoverText": "High Oven"
+}

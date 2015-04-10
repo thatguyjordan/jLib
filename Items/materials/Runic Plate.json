@@ -1,0 +1,19 @@
+{
+	"displayName": "Runic Plate",
+	"size": [20,20],
+	"maxStack": 999,
+	"value": [0,0,0,0],
+	"useStyle": 1,
+	"useAnimation": 100,
+	"useTime": 100,
+	"useSound": 1,
+	"rare": 1,
+	"tooltip": "A blank rune plate that can contain tremendous power.",
+
+	"recipes":
+	[{
+		"items": { "Pearlstone Block": 10, "Pixie Dust": 3}, 
+		"tiles": [ "Anvil" ],
+		"creates": 1
+	}]
+}

@@ -1,6 +1,6 @@
 {
 	"displayName": "Steel Bar",
-	"size": [24,24],
+	"size": [30,24],
 	"maxStack": 999,
 	"value": [0,0,0,0],
 	"useStyle": 1,
